@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "James Mwangi",
+    "comment": "Accida gave me the best motor insurance deal in Nairobi. Highly recommended!",
+    "location": "Nairobi"
+  },
+  {
+    "id": 2,
+    "name": "Aisha Mohamed",
+    "comment": "Professional service and quick claim processing. Great experience overall.",
+    "location": "Mombasa"
+  },
+  {
+    "id": 3,
+    "name": "Peter Otieno",
+    "comment": "Affordable health cover for my whole family. I’m really happy with the support team.",
+    "location": "Kisumu"
+  }
+
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Motor Insurance",
+    "description": "Coverage for vehicles, from comprehensive to third party.",
+    "icon": "FaCar",
+    "path": "/motor"
+  },
+  {
+    "title": "Health Insurance",
+    "description": "Inpatient, outpatient, and combined health policies.",
+    "icon": "FaHeartbeat",
+    "path": "/health"
+  },
+  {
+    "title": "Personal Accident",
+    "description": "Protection against injury, disability, and accidental death.",
+    "icon": "FaUserShield",
+    "path": "/pa"
+  }
+ 
+]

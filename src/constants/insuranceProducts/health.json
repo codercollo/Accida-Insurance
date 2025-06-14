@@ -1,0 +1,38 @@
+{
+  "inpatient": [
+    {
+      "provider": "Madison Insurance",
+      "description": "Covers hospitalization, surgery, and major medical costs.",
+      "cta": "Get Quote"
+    },
+    {
+      "provider": "Britam",
+      "description": "Reliable inpatient health cover for individuals and families.",
+      "cta": "Get Quote"
+    }
+  ],
+  "outpatient": [
+    {
+      "provider": "Jubilee Health",
+      "description": "Provides outpatient consultations, labs, and pharmacy services.",
+      "cta": "Get Quote"
+    },
+    {
+      "provider": "APA Insurance",
+      "description": "Affordable outpatient packages for all ages.",
+      "cta": "Get Quote"
+    }
+  ],
+  "combined": [
+    {
+      "provider": "CIC Insurance",
+      "description": "Comprehensive inpatient + outpatient health plan.",
+      "cta": "Get Quote"
+    },
+    {
+      "provider": "AAR Insurance",
+      "description": "Flexible and inclusive health coverage options.",
+      "cta": "Get Quote"
+    }
+  ]
+}

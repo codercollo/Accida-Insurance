@@ -1,0 +1,26 @@
+{
+  "standard": [
+    {
+      "provider": "Jubilee Insurance",
+      "description": "Comprehensive personal accident cover with daily hospital cash benefits and accidental death compensation.",
+      "cta": "Get Quote"
+    },
+    {
+      "provider": "APA Insurance",
+      "description": "Reliable PA cover including permanent disability, medical expenses, and funeral benefits.",
+      "cta": "Get Quote"
+    }
+  ],
+  "executive": [
+    {
+      "provider": "Britam Insurance",
+      "description": "Executive-level PA cover tailored for professionals with higher benefits and emergency evacuation.",
+      "cta": "Get Quote"
+    },
+    {
+      "provider": "CIC Insurance",
+      "description": "Top-tier accident plan with extra benefits including rehabilitation and family support.",
+      "cta": "Get Quote"
+    }
+  ]
+}

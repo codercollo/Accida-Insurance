@@ -1,0 +1,28 @@
+{
+  "comprehensive": [
+    {
+      "provider": "APA Insurance",
+      "description": "Full coverage for accident, theft, fire, and third party liabilities.",
+      "cta": "Get Quote"
+    },
+    {
+      "provider": "Jubilee Insurance",
+      "description": "Comprehensive motor cover with fast claim processing.",
+      "cta": "Get Quote"
+    }
+  ],
+  "thirdPartyFireTheft": [
+    {
+      "provider": "Britam",
+      "description": "Covers third party liabilities, fire damage, and theft.",
+      "cta": "Get Quote"
+    }
+  ],
+  "thirdParty": [
+    {
+      "provider": "Madison",
+      "description": "Basic third-party cover for damage to others.",
+      "cta": "Get Quote"
+    }
+  ]
+}
